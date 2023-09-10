@@ -1,0 +1,12 @@
+[{<<"lib_sd">>,
+  {git,"https://github.com/joq62/lib_sd.git",
+       {ref,"1c9552ee681e04725478db97ed31439076a97661"}},
+  0},
+ {<<"log">>,
+  {git,"https://github.com/joq62/log.git",
+       {ref,"52fbd1ae9e3f641360505fa400655f22d649354b"}},
+  0},
+ {<<"phoscon_control">>,
+  {git,"https://github.com/joq62/phoscon_control.git",
+       {ref,"b1dfbc0cdb362ad916dae4c6a19717e467cb4612"}},
+  0}].
