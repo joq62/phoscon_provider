@@ -8,5 +8,5 @@
   0},
  {<<"phoscon_control">>,
   {git,"https://github.com/joq62/phoscon_control.git",
-       {ref,"e310592f131b39541dfe138c9a5b98c1894983f5"}},
+       {ref,"3dbbd28ebbef8255dc874533fc0b35c900e0f502"}},
   0}].
