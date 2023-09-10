@@ -22,7 +22,7 @@
   0},
  {<<"phoscon_control">>,
   {git,"https://github.com/joq62/phoscon_control.git",
-       {ref,"a6d9dc9ebf49d5fd1e87a14d043ef0e43c69832d"}},
+       {ref,"d1b5ea0ca14d0c0caf2965981d9321ccaf8e3a93"}},
   0},
  {<<"ranch">>,
   {git,"https://github.com/ninenines/ranch",
