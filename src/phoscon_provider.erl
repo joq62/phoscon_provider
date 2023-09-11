@@ -82,8 +82,8 @@ init([]) ->
 %			 true==filelib:is_dir(EbinPath)],
 %    ok=code:add_paths(EbinPathsToAdd),
 %    io:format("EbinPathsToAdd ~p~n",[{EbinPathsToAdd,?MODULE,?FUNCTION_NAME,?LINE}]),
-    ok=application:start(log),
-    ok=application:start(phoscon_control),
+    application:start(log),
+    application:start(phoscon_control),
     {ok, #state{}}.
 
 %%--------------------------------------------------------------------
